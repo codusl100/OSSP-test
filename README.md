@@ -1,3 +1,6 @@
 # OSSP-test
 
-Hello Wolrd!
+fetch & merge
+A
+B
+C
